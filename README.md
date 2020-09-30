@@ -1,3 +1,4 @@
+Login to The Amazing Project
 # Jquery.fullContent
 
 ### What the plugin does
